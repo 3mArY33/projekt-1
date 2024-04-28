@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\CP24\Desktop\projekt_C++\gra_2\gra_2\Źródło.cpp(7,13): warning C4091: "": zignorowano na lewo od "std::basic_fstream<char,std::char_traits<char>>" podczas gdy brak deklaracji zmiennej
+  gra_2.vcxproj -> C:\Users\CP24\Desktop\projekt_C++\gra_2\x64\Debug\gra_2.exe
